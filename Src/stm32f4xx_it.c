@@ -231,7 +231,7 @@ void SystemTickCricle(void)
 		counter--;
 	if(counter<1)
 	{
-		counter=20;
+		counter=10;
 		Scan=1;
 	}
 }
