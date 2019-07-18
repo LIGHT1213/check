@@ -2,3 +2,5 @@
 *.pan39
 *.axf
 *.o
+*.pan39
+MDK-ARM/JLinkLog.txt
